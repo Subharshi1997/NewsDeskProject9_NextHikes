@@ -1,0 +1,15 @@
+{
+  "default_quality_score": 2,
+  "sources": [
+    {"source_name": "Reuters", "quality_score": 5},
+    {"source_name": "BBC", "quality_score": 5},
+    {"source_name": "BBC News", "quality_score": 5},
+    {"source_name": "The Hindu", "quality_score": 5},
+    {"source_name": "Indian Express", "quality_score": 5},
+    {"source_name": "Economic Times", "quality_score": 5},
+    {"source_name": "Mint", "quality_score": 5},
+    {"source_name": "CNBC", "quality_score": 5},
+    {"source_name": "NDTV", "quality_score": 4},
+    {"source_name": "Business Standard", "quality_score": 4}
+  ]
+}

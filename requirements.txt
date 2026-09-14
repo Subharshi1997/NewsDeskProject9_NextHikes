@@ -1,0 +1,23 @@
+langchain>=0.3.0
+langchain-groq>=0.2.0
+langchain-core>=0.3.0
+streamlit>=1.38.0
+requests>=2.31.0
+python-dotenv>=1.0.1
+feedparser>=6.0.0
+numpy>=1.26.0
+pytest>=8.0.0
+
+# NLP (Phase 2: sentiment + entity extraction). torch is CPU-only here --
+# install it from the CPU wheel index BEFORE this file, or `pip install -r`
+# will pull the much larger CUDA build on most platforms:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+transformers>=4.44.0
+spacy>=3.7.0
+# spaCy's English model isn't a normal pip package -- install separately:
+#   python -m spacy download en_core_web_sm
+
+# Analytics (Phase 3): country-name normalization + the choropleth map.
+pycountry>=23.12.0
+plotly>=5.20.0

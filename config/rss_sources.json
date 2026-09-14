@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BBC News",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "category": "top",
+    "country": "GB",
+    "language": "en",
+    "quality_score": 5
+  },
+  {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "category": "world",
+    "country": "IN",
+    "language": "en",
+    "quality_score": 5
+  },
+  {
+    "name": "Indian Express",
+    "url": "https://indianexpress.com/feed/",
+    "category": "top",
+    "country": "IN",
+    "language": "en",
+    "quality_score": 5
+  },
+  {
+    "name": "NDTV",
+    "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "category": "top",
+    "country": "IN",
+    "language": "en",
+    "quality_score": 4
+  },
+  {
+    "name": "Economic Times",
+    "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+    "category": "business",
+    "country": "IN",
+    "language": "en",
+    "quality_score": 5
+  },
+  {
+    "name": "Mint",
+    "url": "https://www.livemint.com/rss/news",
+    "category": "business",
+    "country": "IN",
+    "language": "en",
+    "quality_score": 5
+  },
+  {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "category": "business",
+    "country": "US",
+    "language": "en",
+    "quality_score": 5
+  },
+  {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/rss/latest.rss",
+    "category": "business",
+    "country": "IN",
+    "language": "en",
+    "quality_score": 4
+  }
+]
